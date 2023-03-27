@@ -23,4 +23,7 @@ The structure is as following:
 - Primary Hash Map's indexes also points to other indexes of the very Hash Map, if the player has overlapping period of career in test with other player  
 # Dataset 
 Dataset was downloaded from following link : https://www.kaggle.com/datasets/mahendran1/icc-cricket?resource=download
+# Developers
+Hafiz Ahmad Raza Khan
+Hasib Aslam 
 
