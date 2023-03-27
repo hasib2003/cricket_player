@@ -24,6 +24,6 @@ The structure is as following:
 # Dataset 
 Dataset was downloaded from following link : https://www.kaggle.com/datasets/mahendran1/icc-cricket?resource=download
 # Developers
-Hafiz Ahmad Raza Khan
-Hasib Aslam 
+- Hafiz Ahmad Raza Khan
+- Hasib Aslam 
 
